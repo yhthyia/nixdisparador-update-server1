@@ -1,0 +1,8 @@
+version: 1.0.1
+files:
+  - url: nixdisparador-1.0.1.AppImage
+    sha512: <sha512-do-appimage>
+    size: <tamanho-do-appimage>
+path: nixdisparador-1.0.1.AppImage
+sha512: <sha512-do-appimage>
+releaseDate: '2023-10-01T00:00:00Z'

@@ -1,0 +1,14 @@
+{
+  "name": "nixdisparador-update-server",
+  "version": "1.0.0",
+  "description": "Servidor de atualizações para Nix Disparador",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
